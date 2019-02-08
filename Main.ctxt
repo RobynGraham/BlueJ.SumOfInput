@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Created\ by\ iyasuwatts\ on\ 10/17/17\n\ String\ question\ Write\ question\ for\ user\ to\ be\ asked\n\ System.out.println\ Ask\ user\ to\ input\ a\ number\n\ scanner\ Get\ user\ input\n\ count\ beginning\ from\ until\ userInputValue\ Calculate\ the\ sum\ of\ user\ input\n\ System.out.println(sum);Display\ the\ sum\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
